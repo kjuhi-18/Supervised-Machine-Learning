@@ -216,14 +216,6 @@ By completing these notebooks, you will understand:
 
 ---
 
-# 🚀 Future Improvements
-
-- Multiple Linear Regression  
-- Polynomial Regression  
-- Ridge Regression  
-- Lasso Regression  
-
----
 
 <div align="center">
 
