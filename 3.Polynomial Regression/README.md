@@ -189,9 +189,7 @@ This project uses:
 
 ### Mean Squared Error (MSE)
 
-\[
-MSE = \frac{1}{n}\sum(y-\hat y)^2
-\]
+MSE = (1/n) * Σ(y - ŷ)²
 
 ---
 
